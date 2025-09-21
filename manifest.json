@@ -1,0 +1,42 @@
+{
+  "name": "MINTCALC - The All-in-One Calculator",
+  "short_name": "MINTCALC",
+  "description": "A comprehensive, all-in-one calculator application featuring basic and scientific calculations, an extensive unit converter, health and fitness tools, and financial calculators, all wrapped in a modern, neumorphic, and themeable interface.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0fff4",
+  "theme_color": "#2e7d32",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
